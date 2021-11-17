@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals",
-                "paths": ["*"]
+                "paths": ["/kek/*"]
             },
             {
                 "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual",

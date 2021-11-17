@@ -3,16 +3,12 @@
         "apps": [],
         "details": [
             {
-                "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals",
-                "paths": ["/bank_id*"]
-            },
-            {
-                "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual",
-                "paths": ["/bank_id*"]
-            },
-            {
-                "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals.beta",
-                "paths": ["/bank_id*"]
+                "appIDs": [ "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals.beta" ],
+                "components": [
+                    {
+                        "/": "*/bank_id/",
+                    }
+                ]
             }
         ]
     }

@@ -4,12 +4,8 @@
         "details": [
             {
                 "appIDs": [ "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals.beta" ],
-                "components": [
-                    {
-                        "/": "/bank_id/*",
-                        "?": { "kek": "?*" }
-                    }
-                ]
+                "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals",
+                "paths": [ "/bank_id" ]
             }
         ]
     }

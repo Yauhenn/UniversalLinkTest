@@ -4,15 +4,15 @@
         "details": [
             {
                 "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals",
-                "paths": ["/kek/*"]
+                "paths": ["/bank_id*"]
             },
             {
                 "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual",
-                "paths": ["/kek/*"]
+                "paths": ["/bank_id*"]
             },
             {
                 "appID": "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals.beta",
-                "paths": ["/kek/*"]
+                "paths": ["/bank_id*"]
             }
         ]
     }

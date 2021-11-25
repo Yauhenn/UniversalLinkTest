@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appIDs": [ "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individual", "DLZHPPEDN4.by.st.alt-bank-individuals.AltBank-Individuals.beta" ],
-                "paths": [ "/bank_id" ]
+                "appIDs": [ "F3Q99L74MW.by.st.kgzBankApp" ],
+                "paths": [ "*" ]
             }
         ]
     }
